@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="G">
+    <archive path="C:/Users/Matthew/Downloads/G.jar" />
+  </library>
+  <library name="vldocking_3.0.3">
+    <archive path="C:/Users/Matthew/Downloads/vldocking_3.0.3.jar" />
+  </library>
+  <library name="core">
+    <archive path="C:/processing-1.5-windows/processing-1.5/lib/core.jar" />
+  </library>
+</eclipse-userlibraries>
+
